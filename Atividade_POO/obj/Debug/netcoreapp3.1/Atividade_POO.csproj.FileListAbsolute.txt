@@ -1,0 +1,13 @@
+D:\CESAR\Trilha Especialista\Atividade_POO\bin\Debug\netcoreapp3.1\Atividade_POO.exe
+D:\CESAR\Trilha Especialista\Atividade_POO\bin\Debug\netcoreapp3.1\Atividade_POO.deps.json
+D:\CESAR\Trilha Especialista\Atividade_POO\bin\Debug\netcoreapp3.1\Atividade_POO.runtimeconfig.json
+D:\CESAR\Trilha Especialista\Atividade_POO\bin\Debug\netcoreapp3.1\Atividade_POO.runtimeconfig.dev.json
+D:\CESAR\Trilha Especialista\Atividade_POO\bin\Debug\netcoreapp3.1\Atividade_POO.dll
+D:\CESAR\Trilha Especialista\Atividade_POO\bin\Debug\netcoreapp3.1\Atividade_POO.pdb
+D:\CESAR\Trilha Especialista\Atividade_POO\obj\Debug\netcoreapp3.1\Atividade_POO.csprojAssemblyReference.cache
+D:\CESAR\Trilha Especialista\Atividade_POO\obj\Debug\netcoreapp3.1\Atividade_POO.AssemblyInfoInputs.cache
+D:\CESAR\Trilha Especialista\Atividade_POO\obj\Debug\netcoreapp3.1\Atividade_POO.AssemblyInfo.cs
+D:\CESAR\Trilha Especialista\Atividade_POO\obj\Debug\netcoreapp3.1\Atividade_POO.csproj.CoreCompileInputs.cache
+D:\CESAR\Trilha Especialista\Atividade_POO\obj\Debug\netcoreapp3.1\Atividade_POO.dll
+D:\CESAR\Trilha Especialista\Atividade_POO\obj\Debug\netcoreapp3.1\Atividade_POO.pdb
+D:\CESAR\Trilha Especialista\Atividade_POO\obj\Debug\netcoreapp3.1\Atividade_POO.genruntimeconfig.cache

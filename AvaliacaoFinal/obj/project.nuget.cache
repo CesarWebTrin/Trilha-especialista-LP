@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qptrhPeddzNwK9WZ+Kn/fw2XNbS0Ei5fd9TCt7zd0hO6AwFF18AJg3wDHW1x2KGu/EVT+/gpcp6bru+T20jOUw==",
+  "success": true,
+  "projectFilePath": "D:\\CESAR\\Trilha Especialista\\AvaliacaoFinal\\AvaliacaoFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

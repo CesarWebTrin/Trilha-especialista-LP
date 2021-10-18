@@ -1,0 +1,13 @@
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\bin\Debug\netcoreapp3.1\AvaliacaoFinal.exe
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\bin\Debug\netcoreapp3.1\AvaliacaoFinal.deps.json
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\bin\Debug\netcoreapp3.1\AvaliacaoFinal.runtimeconfig.json
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\bin\Debug\netcoreapp3.1\AvaliacaoFinal.runtimeconfig.dev.json
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\bin\Debug\netcoreapp3.1\AvaliacaoFinal.dll
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\bin\Debug\netcoreapp3.1\AvaliacaoFinal.pdb
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\obj\Debug\netcoreapp3.1\AvaliacaoFinal.csprojAssemblyReference.cache
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\obj\Debug\netcoreapp3.1\AvaliacaoFinal.AssemblyInfoInputs.cache
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\obj\Debug\netcoreapp3.1\AvaliacaoFinal.AssemblyInfo.cs
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\obj\Debug\netcoreapp3.1\AvaliacaoFinal.csproj.CoreCompileInputs.cache
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\obj\Debug\netcoreapp3.1\AvaliacaoFinal.dll
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\obj\Debug\netcoreapp3.1\AvaliacaoFinal.pdb
+D:\CESAR\Trilha Especialista\AvaliacaoFinal\obj\Debug\netcoreapp3.1\AvaliacaoFinal.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSP6lD0+QhzJLcL4/CuqydRPjfUTUzz6m95FSTZ1RtoAL1i4R30s5I9Zu/GY5twvcQPq2J47v32xTZOsBynOAA==",
+  "success": true,
+  "projectFilePath": "D:\\CESAR\\Trilha Especialista\\Atividade_POO\\Atividade_POO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
